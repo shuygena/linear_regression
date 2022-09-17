@@ -1,6 +1,6 @@
 # linear_regression
 
-The aim of this project is to introdution to the basic concept behind machine learning.
+The aim of this project is introdution to the basic concept behind machine learning.
 Program predicts the price of a car by using a linear function train with a gradient descent algorithm.
 
 
