@@ -3,6 +3,8 @@
 The aim of this project is introdution to the basic concept behind machine learning.
 Program predicts the price of a car by using a linear function train with a gradient descent algorithm.
 
+![](https://github.com/shuygena/linear_regression/blob/main/result.png)
+
 
 ## :mortar_board: Tutorial
 [Look at my own wiki-guide (Ru)](https://github.com/shuygena/linear_regression/wiki)
